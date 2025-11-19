@@ -9,14 +9,14 @@ iBEP introduces a unified multi-layer, vertically varying mixing-length formulat
 The updated formulation replaces the traditional uniform mixing-length assumption within the canopy, providing a more physically realistic representation of turbulent exchange in urban street canyons. This improvement directly addresses long-standing limitations in predicting street-level heat exposure, humidity variability, and cooling energy demand in heterogeneous urban environments.
 
 This repository includes:
-- WRF modifications implementing the improved BEP module.
+- WRF modifications implementing the new BEP module.
 - A standalone 1D column model used for development, verification, and sensitivity testing.
 
 ---
 
 ## Scientific Basis
 
-The improved BEP scheme is grounded in:
+The new BEP scheme is grounded in:
 
 1. **High-resolution LES using nek5000/nekRS**  
    LES simulations spanning a wide range of urban morphologies—plan-area density, aspect ratio, and building configuration—were used to derive and verify the non-monotonic vertical structure of mixing length within the canopy.
@@ -51,7 +51,7 @@ The improved BEP scheme is grounded in:
 
 ## WRF_modifications/
 
-Contains all modifications necessary to activate the improved BEP scheme in WRF.  
+Contains all modifications necessary to activate the new BEP scheme in WRF.  
 Changes are constrained to the BEP/BEP-BEM code path and maintain backward compatibility.
 
 Included:
