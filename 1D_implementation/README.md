@@ -3,7 +3,7 @@
 This directory contains a 1D single-column implementation of the improved BEP (iBEP) mixing-length urban canopy scheme. The code solves for vertical profiles of velocity, turbulence, and scalars in an idealized urban canopy column using the unified multi-layer mixing-length formulation.
 
 This code is based on the previous implementation of the multi-layer urban canopy scheme by
-Dr. Alberto Martilli:
+Dr. A. Martilli:
 Santiago, J. L., & Martilli, A. (2010). A dynamic urban canopy parameterization for mesoscale models based on computational fluid dynamics Reynolds-averaged Navier–Stokes microscale simulations. Boundary-layer meteorology, 137(3), 417-439. 
 
 ## Files
