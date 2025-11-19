@@ -43,7 +43,7 @@ The improved BEP scheme is grounded in:
 
 	•	WRF_modifications/
 	   •	Modified BEP urban physics routines
-	   •	README_WRF_notes.md (WRF-specific usage and namelist notes)
+	   •	README.md (WRF-specific usage and namelist notes)
 	•	1D_implementation/
 	   •	Turbulence closure routines
 	   •	Example configuration files
