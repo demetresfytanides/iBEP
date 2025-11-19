@@ -1,10 +1,10 @@
-# Improved BEP (iBEP) — Unified Multi-Layer Mixing-Length Urban Canopy Scheme
+#iBEP — a Unified Multi-Layer Mixing-Length Urban Canopy Scheme
 ### WRF drop-in replacement module
 
 This repository contains a single modified WRF physics file:
 
 - **module_sf_bep_bem.f90**  
-  An improved version of the BEP/BEP–BEM urban canopy scheme implementing a unified, vertically varying mixing-length formulation for urban canopy turbulence.  
+  An new version of the BEP/BEP–BEM urban canopy scheme implementing a unified, vertically varying mixing-length formulation for urban canopy turbulence.  
   The closure is derived from high-resolution LES (nek5000/nekRS) and validated against both idealized and realistic urban configurations.
 
 The file is a direct drop-in replacement for the standard BEP–BEM module shipped with WRF.
