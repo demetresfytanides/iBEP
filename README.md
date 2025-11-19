@@ -1,5 +1,4 @@
-# iBEP — Improved Building Effect Parameterization
-Unified Multi-Layer Mixing-Length Urban Canopy Scheme
+# iBEP — a Unified Multi-Layer Mixing-Length Urban Canopy Scheme
 
 ## Overview
 
