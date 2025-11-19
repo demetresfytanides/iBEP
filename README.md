@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the implementation of the Improved BEP Urban Canopy Scheme (iBEP), an enhanced version of the standard Building Effect Parameterization (BEP) and BEP–BEM family.
+This repository contains the implementation of the Unified Multi-Layer Mixing-Length Urban Canopy Scheme (iBEP), an enhanced version of the standard Building Effect Parameterization (BEP) and BEP–BEM family.
 
 iBEP introduces a unified multi-layer, vertically varying mixing-length formulation for canopy turbulence, derived from high-resolution large-eddy simulations (LES) using nek5000/nekRS and validated against both idealized and realistic urban configurations.
 
