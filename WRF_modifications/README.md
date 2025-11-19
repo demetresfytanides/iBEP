@@ -42,7 +42,8 @@ If you use this module, please cite:
 Fytanidis, D.K. et al. (2025). *How urban heterogeneity and turbulence shape street-level heat exposure.* (Submitted).  
 
 
-This code is based on the code by Dr A. Martilli and Dr E.S. Krayenhoff (BEP-tree):
+This code is based on the previous implementation of the multi-layer urban canopy scheme by
+Dr. Alberto Martilli and Dr. E.S. Krayenhoff (BEP-Tree): 
 Krayenhoff, E. S., Jiang, T., Christen, A., Martilli, A., Oke, T. R., Bailey, B. N., ... & Crawford, B. R. (2020). A multi-layer urban canopy meteorological model with trees (BEP-Tree): Street tree impacts on pedestrian-level climate. Urban Climate, 32, 100590.
 
 
