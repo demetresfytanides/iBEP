@@ -35,15 +35,15 @@ The resulting closure varies smoothly with height and plan area density (λₚ),
 
 Contents of this Repository
 
-/
+iBEP/
+│
 ├── WRF_modifications/
-│   ├── *modified BEP urban physics routines*
-│   └── README_WRF_notes.md
+│   ├── <modified BEP physics routines>
+│   ├── README_WRF_notes.md
 │
 └── 1D_implementation/
-    ├── turbulence closure routines
+    ├── turbulence_closure.F90
     ├── example configuration files
-    └── diagnostic plotting tools
 
 1. WRF_modifications/
 
