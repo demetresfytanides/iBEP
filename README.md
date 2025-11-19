@@ -106,8 +106,7 @@ Features:
 
 If you use this code, please cite:
 
-Fytanidis, D.K. et al. (2025). *How urban heterogeneity and turbulence shape street-level heat exposure.* (Submitted).  
-High-resolution LES data were obtained using nek5000/nekRS.
+Fytanidis, D. K., Tan, H., Kotamarthi, R., Wang, J., Martilli, A., O’Brien, J., Muradyan, P., Collis, S., & Negri, C. (2025).  *How urban heterogeneity and turbulence shape street-level heat exposure.* (Manuscript submitted for publication).
 
 ---
 
