@@ -1,4 +1,4 @@
-# iBEP — an Unified Multi-Layer Mixing-Length Urban Canopy Scheme
+# iBEP — a Unified Multi-Layer Mixing-Length Urban Canopy Scheme
 ### WRF drop-in replacement module
 
 This repository contains a single modified WRF physics file:
