@@ -40,7 +40,11 @@ No additional flags or custom settings are required beyond your normal urban con
 If you use this module, please cite:
 
 Fytanidis, D.K. et al. (2025). *How urban heterogeneity and turbulence shape street-level heat exposure.* (Submitted).  
-High-resolution LES development supported by nek5000/nekRS.
+
+
+This code is based on the code by Dr A. Martilli and Dr E.S. Krayenhoff (BEP-tree):
+Krayenhoff, E. S., Jiang, T., Christen, A., Martilli, A., Oke, T. R., Bailey, B. N., ... & Crawford, B. R. (2020). A multi-layer urban canopy meteorological model with trees (BEP-Tree): Street tree impacts on pedestrian-level climate. Urban Climate, 32, 100590.
+
 
 ## Contact
 
